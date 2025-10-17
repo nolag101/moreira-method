@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -6,7 +5,7 @@
   <title>Moreira Method</title>
   <style>
     body {
-      background-color: #0f1115;
+      background-color: #9527F5;
       color: white;
       font-family: Arial, sans-serif;
       display: flex;
